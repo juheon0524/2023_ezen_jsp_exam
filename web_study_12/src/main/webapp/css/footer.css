@@ -1,0 +1,16 @@
+footer {
+	background-color: #CCCCFF;
+	margin : 0 auto;
+}
+
+.footerContent {
+	margin : 0 auto;
+	
+}
+
+.footerContent > span {
+	margin : 0 auto;
+	text-align: center;
+	color : #fff;
+	display: block;
+}

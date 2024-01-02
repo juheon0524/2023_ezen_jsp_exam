@@ -1,0 +1,48 @@
+nav {
+    width : 100%;
+    height : auto;
+}
+
+.navTop {
+    background-color: #CCCCFF;
+    margin : 0 auto;
+    height : 100px;
+}
+
+.navTop > h1 {
+    color : #fff;
+    margin : 0 auto;
+    font-size: 24px;
+    text-align: center;
+    padding-top : 30px;
+}
+
+.navBottom {
+    background-color: #6666CC;
+    margin : 0 auto;
+    height : 50px;
+}
+
+.navBottom > ul {
+    width : 900px;
+    margin : 0 auto;
+    color : #fff;
+    display : flex;
+}
+
+.navBottom > ul > li {
+    width : 200px;
+    height : auto;
+    line-height: 50px;
+    
+    text-align: center;
+}
+
+.navBottom > ul > li:hover {
+    background-color: #FF6666;
+}
+
+.navBottom > ul > li > a {
+	text-decoration: none;
+	color: #fff;
+}

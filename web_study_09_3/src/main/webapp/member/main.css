@@ -1,0 +1,18 @@
+.mainPage {
+	text-align: center;
+	padding-top: 50px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.mainImgBox {
+	margin : 0 auto;
+	width:1000px;
+	height:600px;
+	padding-top: 50px;
+}
+
+.mainImgBox > img {
+	width:100%;
+	height:100%;
+}
